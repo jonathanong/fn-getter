@@ -7,6 +7,6 @@
 
   },
   "rules": {
-
+    "arrow-parens": 0
   }
 }
