@@ -7,7 +7,7 @@
   "repository": "jonathanong/fn-getter",
   "dependencies": {},
   "devDependencies": {
-    "babel-eslint": "^5.0.0",
+    "babel-eslint": "^5.0.1",
     "codecov": "^1.0.0",
     "eslint": "^2.0.0",
     "eslint-config-standard": "^5.0.0",
